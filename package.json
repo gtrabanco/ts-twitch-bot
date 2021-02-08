@@ -1,5 +1,5 @@
 {
-  "name": "deno-twitch-bot",
+  "name": "ts-twitch-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
